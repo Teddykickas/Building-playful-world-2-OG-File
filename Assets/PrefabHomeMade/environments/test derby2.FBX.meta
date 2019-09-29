@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 56bde6c7c28723d49b751528d4ba84c5
+timeCreated: 1529842969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: MuurBoven001
+    100004: MuurBoven002
+    100006: MuurBoven003
+    100008: MuurLinks
+    100010: MuurLinks001
+    100012: MuurOnder
+    100014: MuurOnder001
+    100016: MuurRechts
+    100018: MuurRechts001
+    100020: Plane001
+    100022: Plane003
+    100024: Plane007
+    100026: Plane008
+    100028: Plane009
+    100030: Plane010
+    100032: Plane011
+    100034: Plane012
+    100036: Plane013
+    100038: Plane014
+    100040: Plane015
+    100042: Plane016
+    100044: Plane017
+    100046: Plane018
+    100048: Plane019
+    100050: Plane020
+    100052: Plane021
+    100054: Plane022
+    100056: Plane023
+    100058: Plane024
+    100060: Plane025
+    100062: Plane026
+    100064: Plane027
+    100066: Plane028
+    100068: //RootNode
+    400000: ' 1'
+    400002: MuurBoven001
+    400004: MuurBoven002
+    400006: MuurBoven003
+    400008: MuurLinks
+    400010: MuurLinks001
+    400012: MuurOnder
+    400014: MuurOnder001
+    400016: MuurRechts
+    400018: MuurRechts001
+    400020: Plane001
+    400022: Plane003
+    400024: Plane007
+    400026: Plane008
+    400028: Plane009
+    400030: Plane010
+    400032: Plane011
+    400034: Plane012
+    400036: Plane013
+    400038: Plane014
+    400040: Plane015
+    400042: Plane016
+    400044: Plane017
+    400046: Plane018
+    400048: Plane019
+    400050: Plane020
+    400052: Plane021
+    400054: Plane022
+    400056: Plane023
+    400058: Plane024
+    400060: Plane025
+    400062: Plane026
+    400064: Plane027
+    400066: Plane028
+    400068: //RootNode
+    2100000: 01 - Default
+    2100002: 03 - Default
+    2100004: 02 - Default
+    2100006: 07 - Default
+    2100008: 15 - Default
+    2100010: 020- Default
+    2100012: 14 - Default
+    2100014: 09 - Default
+    2300000: ' 1'
+    2300002: MuurBoven001
+    2300004: MuurBoven002
+    2300006: MuurBoven003
+    2300008: MuurLinks
+    2300010: MuurLinks001
+    2300012: MuurOnder
+    2300014: MuurOnder001
+    2300016: MuurRechts
+    2300018: MuurRechts001
+    2300020: Plane001
+    2300022: Plane003
+    2300024: Plane008
+    2300026: Plane009
+    2300028: Plane010
+    2300030: Plane011
+    2300032: Plane012
+    2300034: Plane013
+    2300036: Plane014
+    2300038: Plane015
+    2300040: Plane016
+    2300042: Plane017
+    2300044: Plane018
+    2300046: Plane019
+    2300048: Plane020
+    2300050: Plane021
+    2300052: Plane022
+    2300054: Plane023
+    2300056: Plane024
+    2300058: Plane025
+    2300060: Plane026
+    2300062: Plane027
+    2300064: Plane028
+    3300000: ' 1'
+    3300002: MuurBoven001
+    3300004: MuurBoven002
+    3300006: MuurBoven003
+    3300008: MuurLinks
+    3300010: MuurLinks001
+    3300012: MuurOnder
+    3300014: MuurOnder001
+    3300016: MuurRechts
+    3300018: MuurRechts001
+    3300020: Plane001
+    3300022: Plane003
+    3300024: Plane008
+    3300026: Plane009
+    3300028: Plane010
+    3300030: Plane011
+    3300032: Plane012
+    3300034: Plane013
+    3300036: Plane014
+    3300038: Plane015
+    3300040: Plane016
+    3300042: Plane017
+    3300044: Plane018
+    3300046: Plane019
+    3300048: Plane020
+    3300050: Plane021
+    3300052: Plane022
+    3300054: Plane023
+    3300056: Plane024
+    3300058: Plane025
+    3300060: Plane026
+    3300062: Plane027
+    3300064: Plane028
+    4300000: Plane001
+    4300002: Plane003
+    4300004: Plane008
+    4300006: Plane009
+    4300008: Plane010
+    4300010: MuurLinks
+    4300012: MuurRechts
+    4300014: MuurOnder
+    4300016: MuurBoven001
+    4300018: Plane011
+    4300020: Plane012
+    4300022: Plane013
+    4300024: Plane014
+    4300026: Plane015
+    4300028: Plane016
+    4300030: Plane017
+    4300032: Plane018
+    4300034: Plane019
+    4300036: Plane020
+    4300038: Plane021
+    4300040: Plane022
+    4300042: Plane023
+    4300044: Plane024
+    4300046: Plane025
+    4300048: Plane026
+    4300050: Plane027
+    4300052: Plane028
+    4300054: MuurLinks001
+    4300056: MuurOnder001
+    4300058: MuurRechts001
+    4300060: MuurBoven002
+    4300062: MuurBoven003
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

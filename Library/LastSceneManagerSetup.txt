@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Dessert of Karak/Dessert Level test.unity
+  isLoaded: 1
+  isActive: 1

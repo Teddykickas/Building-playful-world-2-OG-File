@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 0e976eb0d722ffd448dc88b18abeaaa3
+timeCreated: 1528882405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bush001
+    100002: Bush002
+    100004: Bush003
+    100006: Bush004
+    100008: Bush005
+    100010: Bush006
+    100012: Bush007
+    100014: Bush008
+    100016: Bush009
+    100018: Bush010
+    100020: Bush011
+    100022: Bush012
+    100024: Bush013
+    100026: Bush014
+    100028: Bush015
+    100030: Cackti001
+    100032: Cackti002
+    100034: Cackti003
+    100036: Cackti004
+    100038: Cackti005
+    100040: Cackti006
+    100042: Cackti007
+    100044: Cackti008
+    100046: Cackti009
+    100048: Cackti010
+    100050: Crystal001
+    100052: Crystal002
+    100054: Crystal003
+    100056: Crystal004
+    100058: Crystal005
+    100060: Crystal006
+    100062: Crystal007
+    100064: Crystal008
+    100066: Crystal009
+    100068: Crystal010
+    100070: Curve three001
+    100072: Curve three002
+    100074: Curve three003
+    100076: Curve three004
+    100078: Curve three005
+    100080: Dead three001
+    100082: Dead three002
+    100084: Dead three003
+    100086: Dead three004
+    100088: Dead three005
+    100090: Dead three006
+    100092: Dead three007
+    100094: Dead three008
+    100096: Dead three009
+    100098: Dead three010
+    100100: Dead three011
+    100102: Dead three012
+    100104: Dead three013
+    100106: Dead three014
+    100108: Dead three015
+    100110: Plant001
+    100112: Plant002
+    100114: Plant003
+    100116: Plant004
+    100118: Plant005
+    100120: Plant006
+    100122: Plant007
+    100124: Plant008
+    100126: Plant009
+    100128: Plant010
+    100130: Plant011
+    100132: Plant012
+    100134: Plant013
+    100136: Plant014
+    100138: Plant015
+    100140: //RootNode
+    100142: Three001
+    100144: Three002
+    100146: Three003
+    100148: Three004
+    100150: Three005
+    100152: Three006
+    100154: Three007
+    100156: Three008
+    100158: Three009
+    100160: Three010
+    100162: Toxic plant001
+    100164: Toxic plant002
+    100166: Toxic plant003
+    100168: Toxic plant004
+    100170: Toxic plant005
+    100172: Toxic plant006
+    100174: Toxic plant007
+    100176: Toxic plant008
+    100178: Toxic plant009
+    100180: Toxic plant010
+    400000: Bush001
+    400002: Bush002
+    400004: Bush003
+    400006: Bush004
+    400008: Bush005
+    400010: Bush006
+    400012: Bush007
+    400014: Bush008
+    400016: Bush009
+    400018: Bush010
+    400020: Bush011
+    400022: Bush012
+    400024: Bush013
+    400026: Bush014
+    400028: Bush015
+    400030: Cackti001
+    400032: Cackti002
+    400034: Cackti003
+    400036: Cackti004
+    400038: Cackti005
+    400040: Cackti006
+    400042: Cackti007
+    400044: Cackti008
+    400046: Cackti009
+    400048: Cackti010
+    400050: Crystal001
+    400052: Crystal002
+    400054: Crystal003
+    400056: Crystal004
+    400058: Crystal005
+    400060: Crystal006
+    400062: Crystal007
+    400064: Crystal008
+    400066: Crystal009
+    400068: Crystal010
+    400070: Curve three001
+    400072: Curve three002
+    400074: Curve three003
+    400076: Curve three004
+    400078: Curve three005
+    400080: Dead three001
+    400082: Dead three002
+    400084: Dead three003
+    400086: Dead three004
+    400088: Dead three005
+    400090: Dead three006
+    400092: Dead three007
+    400094: Dead three008
+    400096: Dead three009
+    400098: Dead three010
+    400100: Dead three011
+    400102: Dead three012
+    400104: Dead three013
+    400106: Dead three014
+    400108: Dead three015
+    400110: Plant001
+    400112: Plant002
+    400114: Plant003
+    400116: Plant004
+    400118: Plant005
+    400120: Plant006
+    400122: Plant007
+    400124: Plant008
+    400126: Plant009
+    400128: Plant010
+    400130: Plant011
+    400132: Plant012
+    400134: Plant013
+    400136: Plant014
+    400138: Plant015
+    400140: //RootNode
+    400142: Three001
+    400144: Three002
+    400146: Three003
+    400148: Three004
+    400150: Three005
+    400152: Three006
+    400154: Three007
+    400156: Three008
+    400158: Three009
+    400160: Three010
+    400162: Toxic plant001
+    400164: Toxic plant002
+    400166: Toxic plant003
+    400168: Toxic plant004
+    400170: Toxic plant005
+    400172: Toxic plant006
+    400174: Toxic plant007
+    400176: Toxic plant008
+    400178: Toxic plant009
+    400180: Toxic plant010
+    2100000: 01 - Default
+    2100002: 03 - Default
+    2100004: 07 - Default
+    2100006: 08 - Default
+    2100008: 09 - Default
+    2100010: 02 - Default
+    2300000: Bush001
+    2300002: Bush002
+    2300004: Bush003
+    2300006: Bush004
+    2300008: Bush005
+    2300010: Bush006
+    2300012: Bush007
+    2300014: Bush008
+    2300016: Bush009
+    2300018: Bush010
+    2300020: Bush011
+    2300022: Bush012
+    2300024: Bush013
+    2300026: Bush014
+    2300028: Bush015
+    2300030: Cackti001
+    2300032: Cackti002
+    2300034: Cackti003
+    2300036: Cackti004
+    2300038: Cackti005
+    2300040: Cackti006
+    2300042: Cackti007
+    2300044: Cackti008
+    2300046: Cackti009
+    2300048: Cackti010
+    2300050: Crystal001
+    2300052: Crystal002
+    2300054: Crystal003
+    2300056: Crystal004
+    2300058: Crystal005
+    2300060: Crystal006
+    2300062: Crystal007
+    2300064: Crystal008
+    2300066: Crystal009
+    2300068: Crystal010
+    2300070: Curve three001
+    2300072: Curve three002
+    2300074: Curve three003
+    2300076: Curve three004
+    2300078: Curve three005
+    2300080: Dead three001
+    2300082: Dead three002
+    2300084: Dead three003
+    2300086: Dead three004
+    2300088: Dead three005
+    2300090: Dead three006
+    2300092: Dead three007
+    2300094: Dead three008
+    2300096: Dead three009
+    2300098: Dead three010
+    2300100: Dead three011
+    2300102: Dead three012
+    2300104: Dead three013
+    2300106: Dead three014
+    2300108: Dead three015
+    2300110: Plant001
+    2300112: Plant002
+    2300114: Plant003
+    2300116: Plant004
+    2300118: Plant005
+    2300120: Plant006
+    2300122: Plant007
+    2300124: Plant008
+    2300126: Plant009
+    2300128: Plant010
+    2300130: Plant011
+    2300132: Plant012
+    2300134: Plant013
+    2300136: Plant014
+    2300138: Plant015
+    2300140: Three001
+    2300142: Three002
+    2300144: Three003
+    2300146: Three004
+    2300148: Three005
+    2300150: Three006
+    2300152: Three007
+    2300154: Three008
+    2300156: Three009
+    2300158: Three010
+    2300160: Toxic plant001
+    2300162: Toxic plant002
+    2300164: Toxic plant003
+    2300166: Toxic plant004
+    2300168: Toxic plant005
+    2300170: Toxic plant006
+    2300172: Toxic plant007
+    2300174: Toxic plant008
+    2300176: Toxic plant009
+    2300178: Toxic plant010
+    3300000: Bush001
+    3300002: Bush002
+    3300004: Bush003
+    3300006: Bush004
+    3300008: Bush005
+    3300010: Bush006
+    3300012: Bush007
+    3300014: Bush008
+    3300016: Bush009
+    3300018: Bush010
+    3300020: Bush011
+    3300022: Bush012
+    3300024: Bush013
+    3300026: Bush014
+    3300028: Bush015
+    3300030: Cackti001
+    3300032: Cackti002
+    3300034: Cackti003
+    3300036: Cackti004
+    3300038: Cackti005
+    3300040: Cackti006
+    3300042: Cackti007
+    3300044: Cackti008
+    3300046: Cackti009
+    3300048: Cackti010
+    3300050: Crystal001
+    3300052: Crystal002
+    3300054: Crystal003
+    3300056: Crystal004
+    3300058: Crystal005
+    3300060: Crystal006
+    3300062: Crystal007
+    3300064: Crystal008
+    3300066: Crystal009
+    3300068: Crystal010
+    3300070: Curve three001
+    3300072: Curve three002
+    3300074: Curve three003
+    3300076: Curve three004
+    3300078: Curve three005
+    3300080: Dead three001
+    3300082: Dead three002
+    3300084: Dead three003
+    3300086: Dead three004
+    3300088: Dead three005
+    3300090: Dead three006
+    3300092: Dead three007
+    3300094: Dead three008
+    3300096: Dead three009
+    3300098: Dead three010
+    3300100: Dead three011
+    3300102: Dead three012
+    3300104: Dead three013
+    3300106: Dead three014
+    3300108: Dead three015
+    3300110: Plant001
+    3300112: Plant002
+    3300114: Plant003
+    3300116: Plant004
+    3300118: Plant005
+    3300120: Plant006
+    3300122: Plant007
+    3300124: Plant008
+    3300126: Plant009
+    3300128: Plant010
+    3300130: Plant011
+    3300132: Plant012
+    3300134: Plant013
+    3300136: Plant014
+    3300138: Plant015
+    3300140: Three001
+    3300142: Three002
+    3300144: Three003
+    3300146: Three004
+    3300148: Three005
+    3300150: Three006
+    3300152: Three007
+    3300154: Three008
+    3300156: Three009
+    3300158: Three010
+    3300160: Toxic plant001
+    3300162: Toxic plant002
+    3300164: Toxic plant003
+    3300166: Toxic plant004
+    3300168: Toxic plant005
+    3300170: Toxic plant006
+    3300172: Toxic plant007
+    3300174: Toxic plant008
+    3300176: Toxic plant009
+    3300178: Toxic plant010
+    4300000: Bush006
+    4300002: Bush007
+    4300004: Bush008
+    4300006: Bush009
+    4300008: Bush010
+    4300010: Bush001
+    4300012: Bush002
+    4300014: Bush003
+    4300016: Bush004
+    4300018: Bush005
+    4300020: Bush011
+    4300022: Bush012
+    4300024: Bush013
+    4300026: Bush014
+    4300028: Bush015
+    4300030: Cackti001
+    4300032: Cackti002
+    4300034: Cackti003
+    4300036: Cackti004
+    4300038: Cackti005
+    4300040: Plant015
+    4300042: Plant014
+    4300044: Plant013
+    4300046: Plant012
+    4300048: Plant011
+    4300050: Crystal010
+    4300052: Crystal009
+    4300054: Crystal008
+    4300056: Crystal007
+    4300058: Crystal006
+    4300060: Crystal001
+    4300062: Crystal002
+    4300064: Crystal003
+    4300066: Crystal004
+    4300068: Crystal005
+    4300070: Dead three006
+    4300072: Dead three007
+    4300074: Dead three008
+    4300076: Dead three009
+    4300078: Dead three010
+    4300080: Dead three011
+    4300082: Dead three012
+    4300084: Dead three013
+    4300086: Dead three014
+    4300088: Dead three015
+    4300090: Plant006
+    4300092: Plant007
+    4300094: Plant008
+    4300096: Plant009
+    4300098: Plant010
+    4300100: Cackti006
+    4300102: Cackti007
+    4300104: Cackti008
+    4300106: Cackti009
+    4300108: Cackti010
+    4300110: Toxic plant006
+    4300112: Toxic plant007
+    4300114: Toxic plant008
+    4300116: Toxic plant009
+    4300118: Toxic plant010
+    4300120: Three005
+    4300122: Three004
+    4300124: Three003
+    4300126: Three002
+    4300128: Three001
+    4300130: Three010
+    4300132: Three009
+    4300134: Three008
+    4300136: Three007
+    4300138: Three006
+    4300140: Plant001
+    4300142: Plant002
+    4300144: Plant003
+    4300146: Plant004
+    4300148: Plant005
+    4300150: Toxic plant001
+    4300152: Toxic plant002
+    4300154: Toxic plant003
+    4300156: Toxic plant004
+    4300158: Toxic plant005
+    4300160: Curve three001
+    4300162: Curve three002
+    4300164: Curve three003
+    4300166: Curve three004
+    4300168: Curve three005
+    4300170: Dead three001
+    4300172: Dead three002
+    4300174: Dead three003
+    4300176: Dead three004
+    4300178: Dead three005
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
